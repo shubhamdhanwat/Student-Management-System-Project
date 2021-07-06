@@ -1,8 +1,6 @@
 # Student-Management-System-Project
 Student Record System
 
-This is your major project and can be done using concepts that we studied in class. Please take 4-5 days and complete it.
-Since we have covered the OOPS concepts in class, you have to use them now, to create a simple Student Record System.
 
 Use Classes and Objects concepts to create Student class, and array/vector of objects, and write suitable member functions as well. Here are some of the functionalities that your code should have:
 
