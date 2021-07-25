@@ -2,7 +2,6 @@
 Student Record System
 
 
-Use Classes and Objects concepts to create Student class, and array/vector of objects, and write suitable member functions as well. Here are some of the functionalities that your code should have:
 
 1. For Classes 1-5 only.
 2. Assume the person that'll be using this system are school teachers.
